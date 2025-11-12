@@ -1,0 +1,70 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Build artifacts
+dist/
+build/
+*.pyc
+__pycache__/
+*.class
+*.jar
+*.war
+*.ear
+*.o
+*.so
+*.dll
+*.exe
+
+# Dependencies
+node_modules/
+vendor/
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+.cache/
+
+# Coverage reports
+coverage/
+*.coverage
+.nyc_output/
+
+# Package files
+*.tar.gz
+*.zip
+*.rar
+
